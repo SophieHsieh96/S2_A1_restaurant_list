@@ -1,4 +1,4 @@
-# Movie List
+# Restaurants List
 A simple web application for restaurant recommends
 
 ## Features
